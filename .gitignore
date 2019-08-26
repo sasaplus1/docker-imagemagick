@@ -1,0 +1,4 @@
+### docker-imagemagick
+
+share/*
+!share/.gitkeep
