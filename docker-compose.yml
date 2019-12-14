@@ -4,7 +4,7 @@ x-base: &base
   build:
     context: .
     dockerfile: Dockerfile
-  image: docker-imagemagick
+  image: sasaplus1/docker-imagemagick
   init: true
   volumes:
     - ./share:/root/share
